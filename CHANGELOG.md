@@ -1,4 +1,12 @@
 
+<a name="0.0.22"></a>
+## [0.0.22](https://github.com/linecorphat/releaseTest/compare/0.0.21...0.0.22) (2020-11-10)
+
+### Pull Requests
+
+* Merge pull request [#22](https://github.com/linecorphat/releaseTest/issues/22) from linecorphat/feature/test0022
+
+
 <a name="0.0.21"></a>
 ## [0.0.21](https://github.com/linecorphat/releaseTest/compare/0.0.20...0.0.21) (2020-11-10)
 
