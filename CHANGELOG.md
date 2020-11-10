@@ -2,6 +2,10 @@
 <a name="0.0.8"></a>
 ## [0.0.8](https://github.com/linecorphat/releaseTest/compare/0.0.7...0.0.8) (2020-11-10)
 
+### Refactor
+
+* <b> タグを削除 ([#8](https://github.com/linecorphat/releaseTest/issues/8))
+
 
 <a name="0.0.7"></a>
 ## [0.0.7](https://github.com/linecorphat/releaseTest/compare/0.0.6...0.0.7) (2020-11-10)
