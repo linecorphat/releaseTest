@@ -1,4 +1,21 @@
 
+<a name="0.0.25"></a>
+## [0.0.25](https://github.com/linecorphat/releaseTest/compare/0.0.24...0.0.25) (2020-11-10)
+
+### Feat
+
+* タグ削除
+
+### Refactor
+
+* タグ削除しました
+
+### Pull Requests
+
+* Merge pull request [#26](https://github.com/linecorphat/releaseTest/issues/26) from linecorphat/feature/test0026
+* Merge pull request [#25](https://github.com/linecorphat/releaseTest/issues/25) from linecorphat/feature/test0025
+
+
 <a name="0.0.24"></a>
 ## [0.0.24](https://github.com/linecorphat/releaseTest/compare/0.0.23...0.0.24) (2020-11-10)
 
