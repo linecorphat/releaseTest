@@ -1,4 +1,68 @@
 
+<a name="0.0.21"></a>
+## [0.0.21](https://github.com/linecorphat/releaseTest/compare/0.0.20...0.0.21) (2020-11-10)
+
+### Fix
+
+* タグ削除2 ([#21](https://github.com/linecorphat/releaseTest/issues/21))
+
+
+<a name="0.0.20"></a>
+## [0.0.20](https://github.com/linecorphat/releaseTest/compare/0.0.19...0.0.20) (2020-11-10)
+
+### Fix
+
+* タグ削除 ([#20](https://github.com/linecorphat/releaseTest/issues/20))
+
+
+<a name="0.0.19"></a>
+## [0.0.19](https://github.com/linecorphat/releaseTest/compare/0.0.18...0.0.19) (2020-11-10)
+
+### Fix
+
+* タグ削除 ([#19](https://github.com/linecorphat/releaseTest/issues/19))
+
+
+<a name="0.0.18"></a>
+## [0.0.18](https://github.com/linecorphat/releaseTest/compare/0.0.17...0.0.18) (2020-11-10)
+
+### Fix
+
+* タグ追加しています。 ([#18](https://github.com/linecorphat/releaseTest/issues/18))
+
+
+<a name="0.0.17"></a>
+## [0.0.17](https://github.com/linecorphat/releaseTest/compare/0.0.16...0.0.17) (2020-11-10)
+
+### Fix
+
+* タグを再追加しました。 ([#17](https://github.com/linecorphat/releaseTest/issues/17))
+
+
+<a name="0.0.16"></a>
+## [0.0.16](https://github.com/linecorphat/releaseTest/compare/0.0.15...0.0.16) (2020-11-10)
+
+### Fix
+
+* 文言追加しました。 ([#16](https://github.com/linecorphat/releaseTest/issues/16))
+
+
+<a name="0.0.15"></a>
+## [0.0.15](https://github.com/linecorphat/releaseTest/compare/0.0.14...0.0.15) (2020-11-10)
+
+### Fix
+
+* 文言追加3 ([#15](https://github.com/linecorphat/releaseTest/issues/15))
+
+
+<a name="0.0.14"></a>
+## [0.0.14](https://github.com/linecorphat/releaseTest/compare/0.0.13...0.0.14) (2020-11-10)
+
+### Feat
+
+* 文言追加2 ([#14](https://github.com/linecorphat/releaseTest/issues/14))
+
+
 <a name="0.0.13"></a>
 ## [0.0.13](https://github.com/linecorphat/releaseTest/compare/0.0.12...0.0.13) (2020-11-10)
 
