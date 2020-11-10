@@ -1,4 +1,28 @@
 
+<a name="0.0.13"></a>
+## [0.0.13](https://github.com/linecorphat/releaseTest/compare/0.0.12...0.0.13) (2020-11-10)
+
+### Feat
+
+* 文言追加 ([#13](https://github.com/linecorphat/releaseTest/issues/13))
+
+
+<a name="0.0.12"></a>
+## [0.0.12](https://github.com/linecorphat/releaseTest/compare/0.0.11...0.0.12) (2020-11-10)
+
+### Fix
+
+* バグ修正 ([#12](https://github.com/linecorphat/releaseTest/issues/12))
+
+
+<a name="0.0.11"></a>
+## [0.0.11](https://github.com/linecorphat/releaseTest/compare/0.0.10...0.0.11) (2020-11-10)
+
+### Refactore
+
+* 文言訂正 ([#11](https://github.com/linecorphat/releaseTest/issues/11))
+
+
 <a name="0.0.10"></a>
 ## [0.0.10](https://github.com/linecorphat/releaseTest/compare/0.0.9...0.0.10) (2020-11-10)
 
