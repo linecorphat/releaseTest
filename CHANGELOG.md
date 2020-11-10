@@ -1,4 +1,8 @@
 
+<a name="0.0.7"></a>
+## [0.0.7](https://github.com/linecorphat/releaseTest/compare/0.0.6...0.0.7) (2020-11-10)
+
+
 <a name="0.0.6"></a>
 ## [0.0.6](https://github.com/linecorphat/releaseTest/compare/0.0.5...0.0.6) (2020-11-10)
 
