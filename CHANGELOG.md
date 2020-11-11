@@ -1,4 +1,12 @@
 
+<a name="0.0.28"></a>
+## [0.0.28](https://github.com/linecorphat/releaseTest/compare/0.0.27...0.0.28) (2020-11-11)
+
+### バグ修正
+
+* バグ修正テスト
+
+
 <a name="0.0.27"></a>
 ## [0.0.27](https://github.com/linecorphat/releaseTest/compare/0.0.26...0.0.27) (2020-11-11)
 
