@@ -1,4 +1,17 @@
 
+<a name="0.0.33"></a>
+## [0.0.33](https://github.com/linecorphat/releaseTest/compare/0.0.32...0.0.33) (2020-11-19)
+
+### バグ修正
+
+* テスト
+
+### 機能追加・改善
+
+* タグを削除
+* 機能改善です
+
+
 <a name="0.0.32"></a>
 ## [0.0.32](https://github.com/linecorphat/releaseTest/compare/0.0.31...0.0.32) (2020-11-11)
 
