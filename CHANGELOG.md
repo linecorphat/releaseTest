@@ -9,6 +9,7 @@
 
 ### 機能追加・改善
 
+* タグを追加 ([#39](https://github.com/linecorphat/releaseTest/issues/39))
 * タグ削除 ([#38](https://github.com/linecorphat/releaseTest/issues/38))
 * タグを削除
 * 機能改善です
