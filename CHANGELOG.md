@@ -1,6 +1,6 @@
 
-<a name="0.0.33"></a>
-## [0.0.33](https://github.com/linecorphat/releaseTest/compare/0.0.32...0.0.33) (2020-11-26)
+<a name="0.0.34"></a>
+## [0.0.34](https://github.com/linecorphat/releaseTest/compare/0.0.32...0.0.34) (2020-11-26)
 
 ### バグ修正
 
